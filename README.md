@@ -48,7 +48,7 @@ The Bitfinex's format is [timestamp (UTC/milliseconds)],[open price],[close pric
 
 The CryptoCompare's format is [timestamp (UTC/seconds)],[open price],[close price],[highest price],[lowest price],[volume].
 
-The Bitfinex API allows to receive up to 10000 records per request.  The CryptoCompare API allows to receive up to 2000 records per request. You can find the response from the Bitfinex and CryptoCompare (general data) servers in the "curency" folder in each currency pairs. Zero-volume candles removed from data. It takes time to receive data from the servers from the start of trading. The use of this project is to offer you a quick and easy way, to access the historical data, and relieve the servers from much of requests.
+The Bitfinex API allows to receive up to 10000 records per request.  The CryptoCompare API allows to receive up to 2000 records per request. You can find the response from the Bitfinex and CryptoCompare (general data) servers in the "currency" folder in each currency pairs. Zero-volume candles removed from data. It takes time to receive data from the servers from the start of trading. The use of this project is to offer you a quick and easy way, to access the historical data, and relieve the servers from much of requests.
 
 The data are provided as-is without any warranty. Use it at your own risk.
 
