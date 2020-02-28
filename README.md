@@ -44,7 +44,7 @@ In this folder you will find 1 hour candles (open/close/highest/lowest/volume) f
 *  **XRP/USD**
 *  **XTZ/USD**
 
-The Binance's format is [timestamp (UTC/milliseconds)],[open price],[close price],[highest price],[lowest price],[volume].
+The Bitfinex's format is [timestamp (UTC/milliseconds)],[open price],[close price],[highest price],[lowest price],[volume].
 
 The CryptoCompare's format is [timestamp (UTC/seconds)],[open price],[close price],[highest price],[lowest price],[volume].
 
